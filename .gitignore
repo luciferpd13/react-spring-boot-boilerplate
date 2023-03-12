@@ -1,0 +1,16 @@
+*/node_modules
+*/dist
+*/.tmp
+*/.sass-cache
+*/bower_components
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
+**/target/
+
+*.jar
+*.war
+*.ear
