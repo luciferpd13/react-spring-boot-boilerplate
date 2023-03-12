@@ -6,12 +6,12 @@ NodeJS(NPM)
 
 Spring-boot code is inside server directory you can start the app using
 
-./mvnw
+./mvnw <br>
 server will run at http://localhost:8080/
 
 React JS code is inside client directoruy you can start the app using
 
-npm start
+npm start <br>
 app will run at http://localhost:3000/
 
 
