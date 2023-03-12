@@ -1,8 +1,8 @@
 # react-spring-boot-boilerplate
 
 Environment Essentials :-
-Java 1.8 SDK
-NodeJS(NPM)
+Java 1.8 SDK<br>
+NodeJS(NPM)<br>
 
 Spring-boot code is inside server directory you can start the app using
 
